@@ -5,12 +5,14 @@ A collection of teaching materials, Jupyter notebooks, and slides created by Jos
 ## Repository contents
 
 ### Notebooks
+- **High Risk Project** - Translating Chinese Medical Terminology to English Medical Terminology - [Notebook](https://github.com/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/AI_in_Healthcare_High_Risk_Project_Ludolf_J_%2C_Santupur_S_%2C_%26_Islam_S_.ipynb)
 - Brain CT Medical Imaging Tutorial — [Notebook](https://github.com/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/Brain%20CT%20Medical%20Imaging%20Tutorial.ipynb) · [Open in Colab](https://colab.research.google.com/github/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/Brain%20CT%20Medical%20Imaging%20Tutorial.ipynb)
 - EBM-NLP LLM Tutorial — [Notebook](https://github.com/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/EBM-NLP%20LLM%20TUTORIAL%20-%20Joshua%20Ludolf.ipynb) · [Open in Colab](https://colab.research.google.com/github/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/EBM-NLP%20LLM%20TUTORIAL%20-%20Joshua%20Ludolf.ipynb)
 - MIMIC NLP — [Notebook](https://github.com/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/MIMIC%20NLP%20-%20Joshua%20Ludolf.ipynb) · [Open in Colab](https://colab.research.google.com/github/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/MIMIC%20NLP%20-%20Joshua%20Ludolf.ipynb)
 - Predicting In‑Hospital Mortality — [Notebook](https://github.com/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/Predicting%20In-Hospital%20Mortality%20-%20Joshua%20Ludolf.ipynb) · [Open in Colab](https://colab.research.google.com/github/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/Predicting%20In-Hospital%20Mortality%20-%20Joshua%20Ludolf.ipynb)
 
 ### Slides
+- **High Risk Project** - Translating Chinese Medical Terminology to English Medical Terminology - [Slides](https://github.com/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/AI%20in%20Healthcare%20-%20High%20Risk%20Project%20-%20Ludolf%20J.%2C%20Santupur%20S.%20%2C%20%26%20%20Islam%20S.%20%20.pdf)
 - Brain CT Medical Imaging Tutorial — [Slides](https://github.com/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/Brain%20CT%20Medical%20Imaging%20Tutorial.pptx)
 - EBM-NLP LLM Tutorial — [Slides](https://github.com/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/EBM-NLP%20LLM%20TUTORIAL%20-%20Joshua%20Ludolf.pptx)
 - MIMIC SQL — [Slides](https://github.com/Joshua-Ludolf/AI-380H-AI-In-Healthcare/blob/main/MIMIC%20SQL%20-%20Joshua%20Ludolf.pptx)
